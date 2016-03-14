@@ -1,6 +1,6 @@
 # Binomial American Option Pricing
 
-Xiaodong Zhai (xz125@duke.edu)
+by Xiaodong Zhai (xz125@duke.edu)
 
 With Matlab, pricing American Option with Biniomial Model (CRR Tree)
 
