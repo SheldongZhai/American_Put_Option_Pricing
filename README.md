@@ -1,6 +1,6 @@
 # Binomial Option Pricing
 
-by Xiaodong Zhai (xz125@duke.edu)
+by Xiaodong Zhai (xz125@alumni.duke.edu)
 
 To Professor Arlie Petters
 
